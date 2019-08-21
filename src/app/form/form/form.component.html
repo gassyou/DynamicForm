@@ -1,0 +1,14 @@
+<div nz-row style="padding:10px;background-color:rgb(250,250, 250);border-bottom: 1px solid #e8e8e8;">
+  <div
+    nz-col
+    nzSpan="12"
+    style="color: rgb(24,144,255);font-weight:bold;font-size:15px;padding-left:15px">
+    自定义表单案例
+  </div>
+  <div nz-col nzSpan="12"  style="text-align: right">
+    <button nz-button nzType="primary" [routerLink]="'/config'" nzSize="small">表单设计</button>
+  </div>
+</div>
+<div style="margin: 24px">
+  <sf [schema]="schema" ></sf>
+</div>
