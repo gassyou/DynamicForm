@@ -10,5 +10,5 @@
   </div>
 </div>
 <div style="margin: 24px">
-  <sf [schema]="schema" ></sf>
+  <sf [schema]="schema" (formSubmit)="submit($event)"></sf>
 </div>
