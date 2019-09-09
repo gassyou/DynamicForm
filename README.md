@@ -4,7 +4,7 @@
 
 
 # 效果
-![](doc/img/gif.gif)
+![](doc/img/GIF.gif)
 
 
 # 作者
