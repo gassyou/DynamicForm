@@ -4,3 +4,6 @@
 
 # 作者
 Mars Zheng
+
+# 效果
+![](doc/img/gif.gif)
